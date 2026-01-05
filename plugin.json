@@ -1,0 +1,13 @@
+{
+  "ID": "EAC611DB-B5BB-4467-BD5C-F870F95BEDBC",
+  "ActionKeyword": "pl",
+  "IsGlobal": false,
+  "Name": "Project Launcher",
+  "Author": "NOXX Agency",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/artickc/ProjectLauncherPowerToysPlugin",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.ProjectLauncher.dll",
+  "IcoPathDark": "Images\\icon.png",
+  "IcoPathLight": "Images\\icon.png"
+}
