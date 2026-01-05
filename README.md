@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="Images/power.png" alt="PowerToys Run Plugin Preview" width="600">
+</p>
+
+<p align="center">
   <a href="https://github.com/artickc/ProjectLauncherPowerToysPlugin/releases">
     <img src="https://img.shields.io/github/v/release/artickc/ProjectLauncherPowerToysPlugin?style=flat-square&color=blue" alt="Release">
   </a>
